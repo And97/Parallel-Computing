@@ -1,0 +1,3 @@
+C:/Users/Andrea/CLionProjects/KMeansOpenMP/cmake-build-release/CMakeFiles/KMeansOpenMP.dir
+C:/Users/Andrea/CLionProjects/KMeansOpenMP/cmake-build-release/CMakeFiles/edit_cache.dir
+C:/Users/Andrea/CLionProjects/KMeansOpenMP/cmake-build-release/CMakeFiles/rebuild_cache.dir
